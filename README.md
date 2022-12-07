@@ -3,7 +3,7 @@
 A new Flutter project.
 플로터 테스트를 위한 프로젝트였습니다.
 클론 코딩입니다.
-SourceTree도 연습중입니다.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
